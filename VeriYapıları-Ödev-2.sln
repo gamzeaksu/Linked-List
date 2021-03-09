@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriYapıları-Ödev-2", "VeriYapıları-Ödev-2\VeriYapıları-Ödev-2.csproj", "{BCA43232-028A-40F0-A676-EF21E8D69D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA43232-028A-40F0-A676-EF21E8D69D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA43232-028A-40F0-A676-EF21E8D69D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA43232-028A-40F0-A676-EF21E8D69D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA43232-028A-40F0-A676-EF21E8D69D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE2B28CE-ED90-4293-A9FD-AFC292B0D2BF}
+	EndGlobalSection
+EndGlobal
